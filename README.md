@@ -3,6 +3,10 @@
 
 ![Captura de Tela (29)](https://github.com/WV-Wesley-Victor/Introducao-ao-HTML/assets/137107062/5222ab90-59de-4eff-8ac5-75d993d5ef57)
 
+<p align="center">
+  <a href="https://wv-wesley-victor.github.io/Introducao-ao-HTML/" target="_blank">Clique aqui para visitar o projeto</a>
+</p>
+
 ## Descrição
 Este é um repositório pessoal no GitHub que contém uma coleção de projetos HTML simplificados. Aqui você encontrará uma variedade de exemplos e modelos de páginas web construídas puramente com HTML. Cada projeto foi criado com o objetivo de fornecer um código HTML claro, conciso e fácil de entender.
 
