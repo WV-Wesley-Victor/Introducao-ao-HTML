@@ -1,0 +1,39 @@
+Vamos explicar a estrutura básica deste código HTML:
+
+- A primeira linha do código <!DOCTYPE html> declara que o documento é um documento HTML5.
+
+- A tag <html lang="pt-br"> indica que o idioma do documento é português do Brasil.
+
+- A tag <head> contém metadados sobre o documento, como a codificação de caracteres, a escala inicial da viewport e informações sobre a página, como a descrição, autor e palavras-chave.
+
+- A tag <meta charset="UTF-8" /> especifica a codificação de caracteres usada no documento, que é UTF-8, que suporta caracteres de vários idiomas.
+
+- A tag <meta name="viewport" content="width=device-width, initial-scale=1.0" /> define a escala inicial da viewport para o tamanho do dispositivo e a largura do dispositivo como largura máxima para evitar o dimensionamento automático em dispositivos móveis.
+
+- As tags <meta name="description" content="descrição legal da minha página" />, <meta name="author" content="Wesley Victor" /> e <meta name="keywords" content="html, css, javascript" /> fornecem metadados adicionais para a página. A descrição é uma breve descrição da página, o autor é o criador da página e as palavras-chave são palavras que descrevem o conteúdo da página.
+
+- A tag <title> define o título da página que aparecerá na barra de título do navegador.
+
+- O corpo da página começa com a tag <body>, onde todo o conteúdo visível da página é colocado.
+
+- O título da página é definido como "Curriculum Vitae" usando a tag <h1>.
+
+- Um elemento <hr /> é usado para inserir uma linha horizontal para separar as seções do currículo.
+
+- Algumas informações pessoais são apresentadas usando a tag <p>. O nome "Wesley Victor" e o objetivo "Programador Front-end" são formatados em negrito usando a tag <b>.
+
+- Em seguida, a tag <h2> é usada para criar um sub-título "Qualificações Profissionais".
+
+- Uma lista não ordenada <ul> é usada para listar as qualificações profissionais, onde cada item é representado por <li> (lista) e inclui conhecimentos em HTML, CSS e JavaScript.
+
+- São apresentados três links usando a tag <a>, cada um com um atributo href que aponta para arquivos HTML relacionados.
+
+- Os links têm textos âncora "meu primeiro exercicio", "meu terceiro exercicio" e "Veja o primeirasTags.html que eu fiz ©".
+
+- O atributo href dos dois primeiros links aponta para os arquivos "principaisTags.html" e "tagsHTML5.html", enquanto o último link possui o atributo href com o valor "principaisTags.html".
+
+- O texto "    " é usado para inserir espaços adicionais entre os links.
+
+- O símbolo de direitos autorais "©" é inserido usando a entidade HTML &copy;.
+
+Essa estrutura básica cria um currículo simples com informações pessoais, qualificações profissionais e alguns links para exercícios relacionados. Os links permitem que os usuários naveguem para outras páginas relacionadas para obter mais informações.

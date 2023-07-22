@@ -1,0 +1,41 @@
+Vou explicar as tags principais usadas no código HTML:
+
+- <h1>, <h2>, <h3>, <h4>, <h5>, <h6> (Heading Elements - Elementos de Títulos):
+Essas tags são usadas para definir os níveis de títulos e subtítulos em uma página HTML.
+<h1> é o mais importante e representa o título principal da página. É usado para títulos de maior destaque.
+<h2> é usado para subtítulos de nível 2 e assim por diante até <h6>, que é usado para títulos de menor destaque.
+Esses elementos seguem uma hierarquia, onde o <h1> é o título principal e os elementos subsequentes são usados para títulos e subtítulos de níveis inferiores.
+A hierarquia de títulos é importante para a acessibilidade e SEO (Search Engine Optimization).
+<p> (Paragraph Element - Elemento de Parágrafo):
+
+- A tag <p> é usada para criar parágrafos de texto na página.
+Cada parágrafo é separado por uma linha em branco.
+<a> (Anchor Element - Elemento de Âncora):
+
+- A tag <a> é usada para criar links (âncoras) para outras páginas ou recursos.
+O atributo href especifica o destino do link, que pode ser uma URL externa ou o caminho de um arquivo na mesma pasta do site.
+Quando um usuário clica no link, ele é direcionado para o destino especificado.
+<mark> (Mark Element - Elemento de Marcação):
+
+- A tag <mark> é usada para destacar um trecho de texto com uma cor de fundo diferente, geralmente amarela, para chamar a atenção do leitor.
+É útil quando você deseja enfatizar uma parte específica do texto.
+<ul> (Unordered List Element - Elemento de Lista Não Ordenada) e <li> (List Item Element - Elemento de Item de Lista):
+
+- A tag <ul> é usada para criar uma lista não ordenada, onde os itens não têm uma ordem específica.
+Cada item da lista é representado por um elemento <li>.
+<ol> (Ordered List Element - Elemento de Lista Ordenada) e <li> (List Item Element - Elemento de Item de Lista):
+
+- A tag <ol> é usada para criar uma lista ordenada, onde os itens têm uma ordem numérica específica.
+Cada item da lista é representado por um elemento <li>.
+A ordem numérica é automaticamente gerada pelo navegador.
+
+- <strong> (Strong Element - Elemento de Texto em Negrito) e <b> (Bold Element - Elemento de Texto em Negrito):
+Ambas as tags são usadas para aplicar ênfase em um trecho de texto, tornando-o em negrito.
+Semanticamente, <strong> é usado para enfatizar a importância ou relevância do texto e é usado para fins mais específicos.
+Enquanto <b> é usado apenas para fins estilísticos, sem dar significado especial ao texto.
+
+- <i> (Italic Element - Elemento de Texto em Itálico) e <em> (Emphasis Element - Elemento de Ênfase):
+Ambas as tags são usadas para aplicar ênfase em um trecho de texto, tornando-o em itálico.
+Semanticamente, <em> é usado para enfatizar o texto, dando-lhe significado especial, enquanto <i> é usado apenas para fins estilísticos, sem dar significado especial ao texto.
+
+Essas são algumas das tags principais usadas no código HTML fornecido para estruturar o conteúdo da página e criar títulos, parágrafos, listas e links. Cada tag tem um propósito específico e é importante usar as tags corretas para fornecer uma estrutura semântica adequada ao conteúdo da página.
