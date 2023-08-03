@@ -15,8 +15,32 @@ Este é um repositório pessoal no GitHub que contém uma coleção de projetos 
 * Organização intuitiva: Os projetos estão organizados em pastas, categorizadas de acordo com suas respectivas áreas. Isso facilita a navegação e o acesso aos projetos específicos que você deseja estudar ou utilizar como referência.
 * Personalização fácil: O código-fonte está disponível para todos os projetos, permitindo que você faça alterações e adaptações de acordo com suas necessidades e preferências. Você pode usar esses projetos como base para desenvolver suas próprias páginas web personalizadas.
 
+## Fontes de Pesquisa
+Aprender os fundamentos e a introdução ao HTML é o primeiro passo para se tornar um desenvolvedor web. Aqui estão algumas fontes de pesquisa para aprender a introdução ao HTML:
+
+* MDN Web Docs - Introdução ao HTML: A documentação da MDN oferece uma introdução detalhada ao HTML, explicando sua estrutura, elementos e atributos.
+Documentação: https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML
+* W3Schools - HTML Introduction: A W3Schools tem uma introdução simples e interativa ao HTML, abordando os conceitos básicos.
+Tutorial: https://www.w3schools.com/html/html_intro.asp
+* HTML.com - Learn HTML: Este site oferece um guia passo a passo para aprender HTML, com explicações claras e exemplos práticos.
+Tutorial: https://html.com/
+* Codecademy: A Codecademy oferece cursos interativos sobre HTML e desenvolvimento web, incluindo uma introdução abrangente ao HTML.
+Curso: https://www.codecademy.com/learn/learn-html
+* Traversy Media (YouTube): Brad Traversy tem tutoriais em vídeo sobre a introdução ao HTML, explicando os conceitos básicos de marcação e estruturação.
+Canal: https://www.youtube.com/user/TechGuyWeb
+* YouTube em geral: Pesquisar por "HTML introduction tutorial" no YouTube fornecerá uma variedade de vídeos que explicam os fundamentos do HTML.
+* Livros: Existem vários livros sobre introdução ao HTML que podem ser úteis. Por exemplo, "HTML and CSS: Design and Build Websites" de Jon Duckett.
+
+Lembre-se de praticar à medida que aprende. Crie pequenos projetos, experimente diferentes elementos HTML e estruture páginas simples. Isso ajudará a solidificar seus conhecimentos e a se sentir mais confortável com a linguagem de marcação (HTML).
+
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou novos projetos HTML simplificados para adicionar ao repositório, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Instruções de Instalação (caso aplicável)
+Este projeto é uma coleção de tutoriais e exemplos disponibilizados online, não requerendo instalação local. Basta acessar o URL fornecido e explorar os recursos disponíveis.
+
+## Personalização
+Os exemplos e tutoriais fornecidos podem ser personalizados para se adequarem às necessidades específicas dos seus projetos. Use-os como base para criar layouts personalizados que atendam aos requisitos do seu site.
 
 ## Autor
 * Wesley Victor - https://github.com/WV-Wesley-Victor
